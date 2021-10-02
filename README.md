@@ -1,2 +1,2 @@
 # About
-These are some of my articles related to physics and mathematics
+Lately I've been writing some articles on topics related to Quantum Physics. Do give it a read!
